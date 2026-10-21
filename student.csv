@@ -1,0 +1,51 @@
+Student_ID,Age,Gender,Course,Study_Hours,Attendance,Assignment_Score,Midterm_Score,Final_Score,Stress_Level,Sleep_Hours,Passed
+1,19,Male,Business,7.2,63,92,46,83,High,8.6,Yes
+2,19,Female,Data Analytics,3.5,68,59,72,78,Low,7.2,Yes
+3,24,Male,Engineering,13.0,55,93,91,50,High,6.7,Yes
+4,22,Male,Computer Science,19.3,76,51,45,64,Low,6.4,Yes
+5,23,Female,Data Analytics,15.4,89,52,64,45,High,6.2,No
+6,23,Male,Data Analytics,3.8,69,94,58,45,Low,8.5,No
+7,24,Female,Engineering,13.8,78,55,63,62,Low,7.7,Yes
+8,19,Male,Finance,15.4,65,74,64,57,High,7.8,Yes
+9,21,Female,Data Analytics,6.9,57,96,60,65,Medium,5.3,Yes
+10,23,Male,Engineering,9.7,96,74,49,56,Low,6.0,Yes
+11,22,Female,Finance,9.8,69,53,72,71,Low,8.0,Yes
+12,19,Male,Computer Science,16.5,82,83,44,64,Medium,7.4,Yes
+13,25,Female,Finance,17.6,55,88,86,47,High,8.5,No
+14,22,Female,Data Analytics,8.0,65,74,40,86,High,6.1,Yes
+15,20,Male,Business,17.3,87,83,52,49,Medium,8.1,No
+16,18,Female,Engineering,3.3,78,98,91,59,Low,5.2,Yes
+17,19,Male,Engineering,16.9,89,94,48,48,High,6.9,No
+18,20,Female,Finance,17.8,82,58,74,88,High,7.8,Yes
+19,22,Female,Business,10.4,88,73,47,55,Low,5.3,Yes
+20,18,Male,Finance,6.7,59,90,80,43,Low,5.3,No
+21,18,Female,Data Analytics,11.7,72,87,71,53,High,5.5,Yes
+22,25,Male,Engineering,16.7,67,51,46,82,Medium,6.4,Yes
+23,24,Female,Data Analytics,14.4,96,51,43,65,High,6.4,Yes
+24,19,Male,Computer Science,6.2,83,53,67,51,Medium,6.9,Yes
+25,19,Female,Finance,4.7,96,79,93,40,Low,8.7,No
+26,21,Male,Engineering,11.3,68,100,65,97,Low,5.7,Yes
+27,18,Female,Business,18.8,84,63,67,84,High,9.0,Yes
+28,25,Male,Computer Science,8.0,58,82,87,74,Low,8.0,Yes
+29,18,Male,Finance,11.1,88,55,43,72,Low,8.4,Yes
+30,19,Male,Computer Science,9.9,91,60,77,78,Low,7.5,Yes
+31,24,Female,Business,6.5,100,65,55,56,Medium,5.5,Yes
+32,22,Female,Business,18.8,59,45,69,79,High,9.0,No
+33,19,Male,Finance,7.5,77,49,55,63,Medium,5.6,No
+34,22,Male,Finance,8.1,97,51,48,56,Low,8.6,Yes
+35,20,Female,Business,13.3,100,66,53,83,High,8.4,Yes
+36,25,Female,Data Analytics,4.6,82,98,57,42,Low,6.3,No
+37,20,Female,Computer Science,15.6,90,90,67,75,Low,5.4,Yes
+38,20,Male,Business,12.9,64,72,48,42,Medium,6.5,No
+39,18,Female,Computer Science,14.6,97,51,62,89,High,8.5,Yes
+40,24,Male,Computer Science,17.7,66,71,41,51,High,8.7,Yes
+41,24,Male,Business,5.7,99,51,64,95,Low,8.4,Yes
+42,21,Male,Engineering,8.9,69,59,41,82,Low,6.6,Yes
+43,22,Male,Business,9.0,87,70,83,93,High,6.3,Yes
+44,18,Male,Business,6.0,71,47,46,78,Medium,6.4,No
+45,23,Female,Finance,19.7,62,69,76,52,Medium,5.2,Yes
+46,24,Male,Finance,18.7,89,88,86,87,High,7.7,Yes
+47,23,Female,Data Analytics,19.1,76,84,60,82,Low,7.9,Yes
+48,22,Female,Engineering,8.5,99,63,75,48,Low,6.7,No
+49,24,Male,Finance,12.7,80,80,93,40,Medium,6.1,No
+50,24,Female,Engineering,10.5,98,58,72,70,High,5.7,Yes
